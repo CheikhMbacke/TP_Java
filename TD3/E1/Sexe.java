@@ -1,1 +1,0 @@
-public enum Sexe{ Masculin,Feminin}
