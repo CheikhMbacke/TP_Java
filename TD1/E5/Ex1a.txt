@@ -1,0 +1,6 @@
+Ligne 4: a=2 et b=3
+Ligne 10: a=4 et b=3
+Ligne 11: a=2 et b=3
+Ligne 12: a=4 et b=3
+Ligne 13: a=4 et b=3
+Ligne 14: a=2 et b=7

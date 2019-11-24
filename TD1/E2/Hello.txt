@@ -1,0 +1,1 @@
+Si l'argument n'est pas précisé, un exception de type ArrayIndexOutOfBounds se lève car il n'ya pas d'élèmens dans le tableau d'arguments.

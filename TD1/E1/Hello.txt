@@ -1,0 +1,2 @@
+La commande java sert interpreter le code machine appele bytecode. Si on omet la commande, le code ne sera pas interpreté.
+Si le fichier s'appelle Hello2.java, la JVM va chercher le fichier qui contient une classe qui se nomme Hello2.S'il le trouve pas, on aura une erreur.

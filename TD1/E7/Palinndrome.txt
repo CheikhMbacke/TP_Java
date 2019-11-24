@@ -1,0 +1,11 @@
+ALHGORITHME:palindrome(mot,n) //n la taille du mot
+DEBUT
+    isPalind = true
+    i = mot[0]
+    TANTQUE isPalind = true AND i < n 
+        SI mot[i] <> mot[n]
+            isPalind = false
+        SINON
+            i++;
+            n--;
+FIN
